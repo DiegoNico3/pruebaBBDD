@@ -6,7 +6,8 @@ public class BBDDprueba {
         String sURL = "jdbc:mysql://localhost/bbdd_prueba";
         try {
             con = DriverManager.getConnection(sURL,"root","");
-            
+
+
 
             //Statement stmt = con.createStatement(); //este es el metodo de google, el de abajo es el metodo del video
             //stmt.execute("create database lineadecodigo");
