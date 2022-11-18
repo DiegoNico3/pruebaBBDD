@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.sql.*;
-public class BBDDprueba {
+public class BBDDprueba {//dumb
     public static void main(String[] args) {
         Connection con = null;
         String sURL = "jdbc:mysql://localhost/bbdd_prueba";
